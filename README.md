@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arxeman/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0322-coin-change](https://github.com/arxeman/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1260-shift-2d-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arxeman/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arxeman/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arxeman/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arxeman/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
