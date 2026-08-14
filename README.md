@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arxeman/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -101,10 +102,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arxeman/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/arxeman/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
