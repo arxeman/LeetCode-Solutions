@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/arxeman/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0322-coin-change](https://github.com/arxeman/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/arxeman/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arxeman/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/arxeman/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arxeman/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/arxeman/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/arxeman/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
@@ -150,4 +152,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arxeman/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
