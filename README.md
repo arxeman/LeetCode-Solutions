@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/arxeman/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arxeman/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/arxeman/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [2000-reverse-prefix-of-word](https://github.com/arxeman/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arxeman/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arxeman/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arxeman/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/arxeman/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arxeman/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [2000-reverse-prefix-of-word](https://github.com/arxeman/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
