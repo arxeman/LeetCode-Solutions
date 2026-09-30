@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/arxeman/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/arxeman/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/arxeman/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/arxeman/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arxeman/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -190,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## 0-1 BFS
 |  |
@@ -207,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arxeman/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
