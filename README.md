@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/arxeman/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/arxeman/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bellman–Ford Algorithm
 |  |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/arxeman/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
