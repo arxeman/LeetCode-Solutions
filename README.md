@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arxeman/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/arxeman/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arxeman/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/arxeman/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arxeman/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arxeman/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/arxeman/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arxeman/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/arxeman/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
 ## Binary Search
 |  |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/arxeman/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
