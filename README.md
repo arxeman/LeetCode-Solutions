@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/arxeman/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/arxeman/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arxeman/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arxeman/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arxeman/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -145,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/arxeman/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/arxeman/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/arxeman/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/arxeman/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/arxeman/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/arxeman/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arxeman/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -242,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/arxeman/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Tree
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/arxeman/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
